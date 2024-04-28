@@ -35,3 +35,30 @@ main {
     width: 450px;
     height: 300px;
 }
+.PAGINA1 {
+    width: 300px;
+    height: 300px;
+}
+.P1 {
+    background-color: #9e9e9e;
+}
+.P2 {
+    background-color: #9e9e9e;
+}
+
+.pagina2 {
+    width: 300px;
+    height: 300px;
+}
+.card {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+}
+.p3 {
+    width: 400px;
+    height: 300px;
+}
+.PAGINA3 {
+    background-color: azure;
+}
